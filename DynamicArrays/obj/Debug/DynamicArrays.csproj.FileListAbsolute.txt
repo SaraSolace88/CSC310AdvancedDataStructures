@@ -1,0 +1,7 @@
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\DynamicArrays\bin\Debug\DynamicArrays.exe.config
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\DynamicArrays\bin\Debug\DynamicArrays.exe
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\DynamicArrays\bin\Debug\DynamicArrays.pdb
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\DynamicArrays\obj\Debug\DynamicArrays.csproj.AssemblyReference.cache
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\DynamicArrays\obj\Debug\DynamicArrays.csproj.CoreCompileInputs.cache
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\DynamicArrays\obj\Debug\DynamicArrays.exe
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\DynamicArrays\obj\Debug\DynamicArrays.pdb

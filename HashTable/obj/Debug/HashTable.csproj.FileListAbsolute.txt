@@ -1,0 +1,7 @@
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\HashTable\bin\Debug\HashTable.exe.config
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\HashTable\bin\Debug\HashTable.exe
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\HashTable\bin\Debug\HashTable.pdb
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\HashTable\obj\Debug\HashTable.csproj.AssemblyReference.cache
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\HashTable\obj\Debug\HashTable.csproj.CoreCompileInputs.cache
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\HashTable\obj\Debug\HashTable.exe
+C:\Users\DSU\Documents\School\CSC310AdvancedDataStructures\HashTable\obj\Debug\HashTable.pdb
